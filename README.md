@@ -13,5 +13,8 @@
 - 追加予定．．．
 
 ### 使い方
-<figure><img src="https://lh3.googleusercontent.com/d/1MD1ROWFmQq4QRInHSBQZRgdLAZXK9N7G" alt="logo" width=200></figure>
-<figure><img src="https://lh3.googleusercontent.com/d/1fULHZvA2SrRi1hKdk8OQxw1UhdbgKSdm" alt="logo" width=200></figure>
+Google　Colaboratory上で上のファイルを実行するには，まず「Open in Colab」ボタンをクリックします．その後Google Colabが開きます．
+<figure><img src="https://lh3.googleusercontent.com/d/1MD1ROWFmQq4QRInHSBQZRgdLAZXK9N7G" alt="logo" width=500></figure>
+
+次に，「ドライブにコピー」をクリックすると，ご自身のGoogleアカウントのGoogle Driveにこのノートブックが保存されます．
+<figure><img src="https://lh3.googleusercontent.com/d/1fULHZvA2SrRi1hKdk8OQxw1UhdbgKSdm" alt="logo" width=300></figure>
