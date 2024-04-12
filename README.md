@@ -18,3 +18,5 @@ Google　Colaboratory上で上のファイルを実行するには，まず「Op
 
 次に，「ドライブにコピー」をクリックすると，ご自身のGoogleアカウントのGoogle Driveにこのノートブックが保存されます．
 <figure><img src="https://lh3.googleusercontent.com/d/1fULHZvA2SrRi1hKdk8OQxw1UhdbgKSdm" alt="logo" width=400></figure>
+
+コードブロックの「▶」ボタンを押せば，そのブロックのコードが実行されます．
