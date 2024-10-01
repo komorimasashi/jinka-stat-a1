@@ -10,7 +10,7 @@
 - R04_Graphics.ipynb: データの可視化の基礎
 - R05_Descriptives.ipynb: 記述統計量を求める関数の説明
 - R06_Tidy_Data.ipynb: 整然データの解説とその扱い方の基礎
-- 追加予定．．．
+- R07_Dataframe_Merging.ipynb：データフレームの結合
 
 ### 使い方
 Google　Colaboratory上で上のファイルを実行するには，まず「Open in Colab」ボタンをクリックします．その後Google Colabが開きます．
